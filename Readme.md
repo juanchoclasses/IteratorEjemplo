@@ -43,3 +43,6 @@ items = newItems;
 In this example, `newLength` is the desired size of the array. It should be greater than the length of the original array if you want to increase the size. After these lines of code, `items` will be an array with the desired size, containing all the elements from the original array.  Typically you would double the size of the array when you resize it.  
 
 There is a unit test `add100` that you can check to see if your resizing works.
+
+## If you finish early and want to do more
+Talk to your instructor
