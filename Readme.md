@@ -4,7 +4,7 @@ Sure, here's a draft for your README file:
 
 ## Changes in RecyclableCollection
 
-We are planning to change the internal representation in `RecyclableCollection` from `ArrayList` to an array. This change is intended to optimize the memory usage and improve the performance of our collection.  We will be doing this in two steps. 
+We are planning to change the internal representation in `RecyclableCollection` from `ArrayList` to an `RecyclableItem[]` array. This change is intended to optimize the memory usage and improve the performance of our collection.  We will be doing this in two steps. 
 1) You will implement this with an array that does not resize.
 2) For fun, you can implement the resizing of the array.
 
