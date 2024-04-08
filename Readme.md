@@ -1,5 +1,3 @@
-Sure, here's a draft for your README file:
-
 # Project Update
 
 ## Changes in RecyclableCollection
